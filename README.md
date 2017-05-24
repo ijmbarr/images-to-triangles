@@ -4,7 +4,7 @@ The name says it all. The code for [this blog post](http://www.degeneratestate.o
 
 Examples:
 
-![original](BTD.jpeg)
+![original](BTD.jpg)
 
 ![50 points](BTD_triangle_50_points.jpg)
 
